@@ -1,0 +1,33 @@
+{
+  "name": "zgp",
+  "version": "1.0.0",
+  "description": "self node module",
+  "keywords": [
+    "zgp"
+  ],
+  "homepage": "https://github.com/zhangpupu42/zgp#readme",
+  "license": "MIT",
+  "author": "Mr.ZhangGP <17600383703@163.com>",
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "main": "lib/index.js",
+  "bin": "bin/zgp.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangpupu42/zgp"
+  },
+  "dependencies": {
+    "generator-zgp": "1.0.3",
+    "inquirer": "^7.3.3",
+    "yo": "^3.1.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=10"
+  }
+}

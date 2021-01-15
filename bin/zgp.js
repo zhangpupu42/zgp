@@ -53,7 +53,7 @@ function forward(action) {
     .prompt(secList)
     .then((answers) => {
       if(answers.type !== 'default'){
-        bases.push(answers.type)
+        bases[2] = bases[2] + ':' + answers.type
       }
       process.argv = bases
       require('yo/lib/cli')

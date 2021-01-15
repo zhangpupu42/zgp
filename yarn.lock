@@ -1346,10 +1346,10 @@ gauge@~1.2.5:
     lodash.padend "^4.1.0"
     lodash.padstart "^4.1.0"
 
-generator-zgp@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npm.taobao.org/generator-zgp/download/generator-zgp-1.0.3.tgz#cb221ea09d0cd65484725d92ec9640a2547bf7bb"
-  integrity sha1-yyIeoJ0M1lSEcl2S7JZAolR797s=
+generator-zgp@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npm.taobao.org/generator-zgp/download/generator-zgp-1.1.0.tgz#1f8ab53bc5ea296a047c019ceba97aebd48430de"
+  integrity sha1-H4q1O8XqKWoEfAGc66l669SEMN4=
   dependencies:
     yeoman-generator "^4.12.0"
 
@@ -1782,26 +1782,7 @@ inquirer@^6.0.0, inquirer@^6.3.1:
     strip-ansi "^5.1.0"
     through "^2.3.6"
 
-inquirer@^7.1.0:
-  version "7.3.3"
-  resolved "https://registry.npm.taobao.org/inquirer/download/inquirer-7.3.3.tgz#04d176b2af04afc157a83fd7c100e98ee0aad003"
-  integrity sha1-BNF2sq8Er8FXqD/XwQDpjuCq0AM=
-  dependencies:
-    ansi-escapes "^4.2.1"
-    chalk "^4.1.0"
-    cli-cursor "^3.1.0"
-    cli-width "^3.0.0"
-    external-editor "^3.0.3"
-    figures "^3.0.0"
-    lodash "^4.17.19"
-    mute-stream "0.0.8"
-    run-async "^2.4.0"
-    rxjs "^6.6.0"
-    string-width "^4.1.0"
-    strip-ansi "^6.0.0"
-    through "^2.3.6"
-
-inquirer@^7.3.3:
+inquirer@^7.1.0, inquirer@^7.3.3:
   version "7.3.3"
   resolved "https://registry.npm.taobao.org/inquirer/download/inquirer-7.3.3.tgz?cache=0&sync_timestamp=1598277404065&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Finquirer%2Fdownload%2Finquirer-7.3.3.tgz#04d176b2af04afc157a83fd7c100e98ee0aad003"
   integrity sha1-BNF2sq8Er8FXqD/XwQDpjuCq0AM=

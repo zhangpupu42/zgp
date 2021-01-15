@@ -22,7 +22,7 @@
     "url": "git+https://github.com/zhangpupu42/zgp"
   },
   "dependencies": {
-    "generator-zgp": "1.0.3",
+    "generator-zgp": "^1.1.0",
     "inquirer": "^7.3.3",
     "yo": "^3.1.1"
   },

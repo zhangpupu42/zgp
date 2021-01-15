@@ -30,6 +30,10 @@ const secList = [
       {
         name: 'pages-boilerplate program',
         value: 'poiler'
+      },
+      {
+        name: 'vue2cli3-base program',
+        value: 'vue2cli3-base'
       }
     ]
   }
